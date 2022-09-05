@@ -1,4 +1,4 @@
-# DEvat - An ECOMMERCE APP 
+# DEVAT - An ECOMMERCE APP 
 
 ##Deployed link
 
