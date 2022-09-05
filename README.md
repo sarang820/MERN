@@ -1,14 +1,12 @@
-# React/Node.js template (MERN stack) ecommerce (light bundle: 100ko).
+# DEvat - An ECOMMERCE APP 
 
-## Demo
+##Deployed link
 
-https://demo-react-eco2.herokuapp.com/ 
+https://devat-ecommerce.herokuapp.com/
 
-https://demo-react-eco2.herokuapp.com/admin (user: admin, psw: admin)
+## Tech Stack
 
-## Prerequisites
-
-Node.js, MongoDB and npm or yarn package manager are required
+Node.js, MongoDB and npm or yarn package manager ,Express.js & React.js library.
 
 ## Installation
 You will only need to install the modules and import your DB.
@@ -24,9 +22,13 @@ setup your config.js file (secret JWT & Mongo URI)
 ```
 
 ## Features
+- Authorization & Authentication
 - cached DB for fast results
-- filters combinables bewteen each other 
-- validators
+- filters products according to user needs.
+- Search functionality
 
-## Other projects
-Wanna play with react and SVG/CSS animations? https://github.com/NielsDom/react-countries / [DEMO](https://countries-389d9.firebaseapp.com/)
+## Future Improvements
+- Making  an admin route so that user can add its product and sell it.
+- Adding more payment option for the user.
+- Improving UI/UX.
+
