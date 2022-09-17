@@ -26,6 +26,7 @@ setup your config.js file (secret JWT & Mongo URI)
 - cached DB for fast results
 - filters products according to user needs.
 - Search functionality
+- Sorting the products (newest,oldest,price etc) 
 
 ## Future Improvements
 - Making  an admin route so that user can add its product and sell it.
